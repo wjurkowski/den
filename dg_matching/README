@@ -1,0 +1,8 @@
+calculates matching of directed graph and identifies critical nodes
+
+dg_matching-2.pl - versio nused in controllability project: first run
+dg_matching.pl	- current version
+	notes modified
+
+perl dg_matching.pl -n CORE_NETWORK.net > CORE_NETWORK_Matching.txt
+

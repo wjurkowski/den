@@ -1,0 +1,2 @@
+Program to check if networks topological motifs are matching expression data.
+State of each node in given motif is compared with expression level. If the node is activated, gene should be upregulated as well.
