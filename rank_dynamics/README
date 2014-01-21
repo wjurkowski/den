@@ -1,0 +1,4 @@
+Projection of sigmoid functions from simulation of network dynamics
+AIM: get the fair ranking (based on same y value
+
+R  --no-save --args PerturbationIterations.out < Project_actives.R > output
